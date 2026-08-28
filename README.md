@@ -1,174 +1,224 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=34&center=true&vCenter=true&width=900&height=70&duration=4000&pause=2000&lines=Hello!+👋+I'm+Yash+Dolare;" />
-</h1>
+<h1 align="center">Hi 👋, I'm Yash Sudhakar Dolare</h1>
 
 <h3 align="center">
-  ☁️ AWS Cloud & DevOps Enthusiast | Linux | Docker | Kubernetes
+  ☁️ Cloud Computing | AWS | DevOps | IT Infrastructure
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&center=true&vCenter=true&width=750&lines=AWS+Cloud+%26+DevOps+Enthusiast+☁️;Linux+%7C+Docker+%7C+Kubernetes;Terraform+%7C+Jenkins+%7C+CI%2FCD;Automation+%7C+Monitoring+%7C+Cloud" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=750&lines=Cloud+Computing+Student+☁️;AWS+%7C+Azure+%7C+GCP;Linux+%7C+Docker+%7C+Kubernetes;Terraform+%7C+Jenkins+%7C+CI%2FCD;Cloud+Infrastructure+%7C+Automation" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- ☁️ I'm an **AWS Cloud & DevOps enthusiast** passionate about cloud infrastructure and automation.
-- 🐧 Hands-on experience with **Linux systems**, commands, administration, and troubleshooting.
-- 🐳 Learning and practicing **Docker** and containerized application deployment.
-- ☸️ Exploring **Kubernetes** for container orchestration and application management.
-- 🏗️ Working with **Terraform** to understand Infrastructure as Code (IaC).
-- 🔄 Learning **CI/CD pipelines** and DevOps automation using tools like Jenkins.
-- 📊 Exploring **monitoring and observability** with Prometheus and Grafana.
-- 🚀 Interested in building **reliable, scalable, and automated cloud infrastructure**.
+I'm a **B.Sc. Computer Science (Cloud Computing) student** pursuing Honours, with a strong interest in **Cloud Computing, IT Infrastructure, Cloud Administration, and DevOps**.
+
+* ☁️ Interested in **Cloud Infrastructure & Administration**
+* 🐧 Hands-on with **Linux (Ubuntu)** and Windows
+* 🐳 Working with **Docker & Kubernetes**
+* 🏗️ Learning and using **Infrastructure as Code**
+* 🔄 Exploring **CI/CD and deployment automation**
+* 🌐 Familiar with **networking fundamentals**
+* 🛠️ Interested in **system administration and troubleshooting**
+* 📊 Exploring **cloud monitoring and operational visibility**
 
 ---
 
-## 🛠️ Tech Stack
+## ☁️ Cloud Platforms
 
-### ☁️ Cloud
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="55" height="55" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp" />
 </p>
 
-**AWS:** EC2 • S3 • IAM • VPC • EBS • ECR • ECS • CloudWatch
+**AWS • Microsoft Azure • Google Cloud Platform**
 
 ---
 
-### 🐳 DevOps & Containerization
+## 🐳 Containers & Orchestration
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="50" />
-  <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" width="50" />
-  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="50" />
-  <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" width="50" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes" />
 </p>
 
-**Docker • Kubernetes • Terraform • Jenkins • Ansible**
+**Docker • Kubernetes**
 
 ---
 
-### 🐧 Linux & Scripting
+## 🏗️ Infrastructure as Code
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=terraform" />
 </p>
 
-**Linux • Bash • Python**
+**Terraform • AWS CloudFormation**
 
 ---
 
-### 🔄 Version Control & CI/CD
+## 🔄 CI/CD & DevOps
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
-       width="50"
-       style="background-color:white; padding:5px; border-radius:6px;" />
-  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="50" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=jenkins,git,github,gitlab" />
 </p>
 
-**Git • GitHub • Jenkins • CI/CD**
+**Jenkins • Git • GitHub • GitLab**
 
 ---
 
-### 📊 Monitoring & Observability
+## 📊 Monitoring & Observability
 
-<p>
-  <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" width="50" />
-  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="50" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws" />
 </p>
 
-**Prometheus • Grafana • AWS CloudWatch**
+**AWS CloudWatch • Datadog**
 
 ---
 
-## 🚀 What I Do
+## 🐧 Operating Systems & Scripting
 
-- ☁️ Work with **AWS cloud infrastructure**
-- 🖥️ Deploy and manage applications on **EC2**
-- 🐳 Build and run **Docker containers**
-- 📦 Work with **Docker images and container registries**
-- 🚢 Explore application deployment using **ECR and ECS**
-- ☸️ Practice **Kubernetes cluster setup and management**
-- 🏗️ Learn Infrastructure as Code using **Terraform**
-- 🔄 Build and understand **CI/CD pipelines**
-- 🐧 Troubleshoot applications and systems using **Linux**
-- 📊 Monitor systems and applications using **Prometheus, Grafana, and CloudWatch**
-- 🤖 Automate repetitive infrastructure and deployment tasks
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,bash" />
+</p>
+
+**Linux (Ubuntu) • Windows • Bash • Shell Scripting**
 
 ---
 
-## 📂 Projects
+## 🌐 Networking
 
-### ☁️ CloudPlay — Cloud Gaming Platform
-
-A cloud-based application concept focused on **remote game streaming and cloud infrastructure**.
-
-**Technologies & Concepts:**
-
-- AWS Cloud
-- EC2
-- Linux
-- Docker
-- Networking
-- Cloud Infrastructure
-- Application Deployment
-- Automation
+* TCP/IP
+* DNS
+* DHCP
+* SSH
+* Basic Networking Concepts
 
 ---
 
-### 🐳 Dockerized Applications
+## 🖥️ IT Infrastructure
 
-Hands-on practice with containerizing applications and understanding the complete Docker workflow.
-
-**Topics practiced:**
-
-- Docker Images
-- Docker Containers
-- Dockerfile
-- Docker Volumes
-- Docker Networks
-- Container Management
-- Application Containerization
+* Server Administration
+* User Management
+* Remote Administration
+* System Troubleshooting
+* Software Installation
+* Infrastructure Deployment
 
 ---
 
-### ☸️ Kubernetes Practice
-
-Hands-on learning and experimentation with Kubernetes cluster management.
-
-**Topics:**
-
-- Kubernetes Architecture
-- Pods
-- Deployments
-- Services
-- Namespaces
-- ConfigMaps
-- kubeadm
-- Container Orchestration
-
----
-
-## 📚 Currently Learning
+## 🛠️ Technical Skills
 
 ```text
-AWS Cloud
-   ↓
-Linux
-   ↓
-Docker
-   ↓
-Kubernetes
-   ↓
-Terraform
-   ↓
+Cloud
+├── AWS
+├── Azure
+└── GCP
+
+Containers
+├── Docker
+└── Kubernetes
+
+Infrastructure as Code
+├── Terraform
+└── AWS CloudFormation
+
 CI/CD
-   ↓
-Monitoring & Automation
+└── Jenkins
+
+Monitoring
+├── AWS CloudWatch
+└── Datadog
+
+Version Control
+├── Git
+├── GitHub
+└── GitLab
+
+Operating Systems
+├── Linux (Ubuntu)
+└── Windows
+
+Scripting
+├── Bash
+└── Shell Scripting
+
+Development
+└── VS Code
+```
+
+---
+
+## 📚 Relevant Knowledge
+
+* Operating Systems
+* Computer Networks
+* Cloud Computing
+* Linux Administration
+* Database Management Systems
+
+---
+
+## 🧠 Soft Skills
+
+**Problem Solving • Communication • Troubleshooting • Team Collaboration • Analytical Thinking**
+
+---
+
+## 🎯 Areas of Interest
+
+☁️ Cloud Computing
+⚙️ DevOps & Automation
+🖥️ IT Infrastructure
+🐧 Linux Administration
+🌐 Cloud Networking
+📦 Containerization
+🏗️ Infrastructure as Code
+📊 Monitoring & Observability
+
+---
+
+## 🌱 Currently Learning
+
+```text
+Cloud Computing
+      ↓
+Linux & Infrastructure
+      ↓
+Docker & Kubernetes
+      ↓
+Terraform & IaC
+      ↓
+CI/CD
+      ↓
+Cloud Monitoring
+      ↓
+DevOps & Cloud Administration
+```
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/">
+  <img src="https://skillicons.dev/icons?i=github" width="50"/>
+</a>
+
+   
+
+<a href="https://linkedin.com/">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
+</a>
+
+</p>
+
+---
+
+<h3 align="center">
+  ☁️ Learn • Build • Automate • Improve 🚀
+</h3>
+
+<p align="center">
+  <i>Exploring the world of Cloud Computing, Infrastructure & DevOps.</i>
+</p>
